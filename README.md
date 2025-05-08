@@ -20,7 +20,7 @@
 
   <h2>🚀 <strong>Objective</strong></h2>
   <p>
-    This project evaluates bidding optimization strategies for programmatic advertising at Criteo, comparing two model-based approaches — Linear Regression and Deep Learning — using a real-world-style Click-Through Rate (CTR) prediction dataset. It simulates a scenario where two brands, Hollister and Fridge, bid for 1,000 ad slots on CNN.com, aiming to maximize profitability, prediction accuracy, and business impact. The goal is to recommend the most effective bidding strategy for deployment in Criteo’s production environment.
+      This project examines and compares two bidding strategies used in programmatic advertising at Criteo: <strong>Linear Regression</strong> and <strong>Deep Learning</strong>, focusing on <strong>click-through rate (CTR) prediction</strong>. It assesses the impact of each model on profitability, prediction accuracy, and business value in order to recommend the most effective model for deployment.
   </p>
 
   <h2>📂 <strong>Project Summary</strong></h2>
